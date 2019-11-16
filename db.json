@@ -1,0 +1,25 @@
+{
+ "products": 
+ 
+[
+{"id":1,"name":"American Virginia opossum","category":"Indigo"},
+{"id":2,"name":"Starling, cape","category":"Mauv"},
+{"id":3,"name":"Sockeye salmon","category":"Khaki"},
+{"id":4,"name":"Cat, civet","category":"Red"},
+{"id":5,"name":"White-throated kingfisher","category":"Crimson"},
+{"id":6,"name":"Snake-necked turtle","category":"Teal"},
+{"id":7,"name":"Vulture, white-rumped","category":"Teal"},
+{"id":8,"name":"Eagle, african fish","category":"Blue"},
+{"id":9,"name":"Tayra","category":"Purple"},
+{"id":10,"name":"Arctic hare","category":"Orange"},
+{"id":11,"name":"Gray duiker","category":"Yellow"},
+{"id":12,"name":"Cat, african wild","category":"Green"},
+{"id":13,"name":"Shrike, southern white-crowned","category":"Red"},
+{"id":14,"name":"Silver gull","category":"Indigo"},
+{"id":15,"name":"Macaw, red and blue","category":"Violet"},
+{"id":16,"name":"South American sea lion","category":"Blue"},
+{"id":17,"name":"Lion, galapagos sea","category":"Indigo"},
+{"id":18,"name":"Peacock, blue","category":"Puce"},
+{"id":19,"name":"Cape wild cat","category":"Violet"},
+{"id":20,"name":"Baboon, gelada","category":"Turquoise"}]
+}
